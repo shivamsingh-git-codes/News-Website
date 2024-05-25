@@ -73,12 +73,7 @@ A News website which gives latest news about India. This website Build using Pla
 ## UI of the Website
 
 |![Screenshot (280)](https://user-images.githubusercontent.com/87645745/177340164-6b3894e6-01b0-4bec-9472-c56f557f7089.png) | 
-|-
-| Loading Page 
-| ![Screenshot (282)](https://user-images.githubusercontent.com/87645745/177339951-a70101f3-c830-4661-827b-76624c4dec3f.png)
-| Home Page
-| ![Screenshot (278)](https://user-images.githubusercontent.com/87645745/177340746-f666e6a6-becd-49f9-b262-beaed5c3ba43.png)
-| Responsive
+
 
 <br/>
 ## API Reference
