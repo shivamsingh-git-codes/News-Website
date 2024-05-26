@@ -70,9 +70,6 @@ A News website which gives latest news about India. This website Build using Pla
 | ![Screenshot (278)](https://user-images.githubusercontent.com/87645745/178142579-846a62ac-6fbc-41c8-94cd-2f1e5d7f67ed.png)
 
 <br/>
-## UI of the Website
-
-|![Screenshot (280)](https://user-images.githubusercontent.com/87645745/177340164-6b3894e6-01b0-4bec-9472-c56f557f7089.png) | 
 
 
 <br/>
