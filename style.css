@@ -9,7 +9,7 @@
   }
   
   /* Dark Mode */
-  body.dark-mode {
+  body.dark-mode {  
     --background-color: #333333; /* Dark background color */
     --text-color: #ffffff; /* Light text color */
     --card-background: rgba(0, 0, 0, 0.24); /* Dark card background color */
