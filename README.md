@@ -1,5 +1,5 @@
 <h1 align="center">
-       ✨  News Website  ✨
+       ✨  News Website  ✨  
 </h1>
 
 <div align="center">
