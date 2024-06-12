@@ -3,7 +3,7 @@
                       
 /* Default (Light) Mode */
 :root {
-    --background-color: #ffffff; /* Light background color */
+    --background-color: #ffffff; /* Light background color  */
     --text-color: #333333; /* Dark text color */
     --card-background: rgba(128, 128, 128, 0.204); /* Card background color */
   }
